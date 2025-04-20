@@ -74,7 +74,7 @@ Then visit `http://localhost:8501` in your browser. Type a message and start cha
 
 ## 📄 License
 
-MIT License — feel free to fork, modify, and build on it.
+MIT License — feel free to fork, modify, and build on it.(few attemmpts are free)
 
 ---
 
